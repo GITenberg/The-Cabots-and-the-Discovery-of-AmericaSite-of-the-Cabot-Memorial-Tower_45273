@@ -1,0 +1,35 @@
+_repo: The-Cabots-and-the-Discovery-of-AmericaSite-of-the-Cabot-Memorial-Tower_45273
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Loxton, S. J. (Samuel Joseph)
+    alias: Loxton, Samuel Joseph
+    birthdate: 1857
+    deathdate: 1922
+    gutenberg_agent_id: '43189'
+    url: http://www.gutenberg.org/2009/agents/43189
+covers:
+- cover_type: archival
+  image_path: 45273-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hodges, Elizabeth, active 1895-1897
+    gutenberg_agent_id: '43188'
+    url: http://www.gutenberg.org/2009/agents/43188
+description: ''
+gutenberg_issued: '2014-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bristol (England) -- Description and travel'
+- !lcsh 'Cabot, Sebastian, approximately 1474-1557'
+- !lcc 'E011'
+- !lcsh 'Cabot, John, -1498?'
+title: "The Cabots and the Discovery of America\r\nWith a Brief Description and History\
+  \ of Brandon Hill, the Site of the Cabot Memorial Tower"
+url: http://www.gutenberg.org/ebooks/45273
