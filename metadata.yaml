@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '43188'
     url: http://www.gutenberg.org/2009/agents/43188
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45273#The-Cabots-and-the-Discovery-of-AmericaSite-of-the-Cabot-Memorial-Tower
 gutenberg_issued: '2014-03-31'
 gutenberg_type: Text
 identifiers:
